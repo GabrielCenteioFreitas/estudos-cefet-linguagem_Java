@@ -1,1 +1,1 @@
-public class leao extends Animal {}
+public class Leao extends Animal {}
