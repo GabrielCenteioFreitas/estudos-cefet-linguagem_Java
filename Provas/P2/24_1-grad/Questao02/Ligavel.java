@@ -1,0 +1,3 @@
+interface Ligavel {
+  void ligavel();
+}
