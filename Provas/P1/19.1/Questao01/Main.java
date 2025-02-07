@@ -23,7 +23,7 @@ public class Main {
   }
 
   public Produto[] transformaListEmArray(List<Object> k) {
-    ArrayList<Produto> ps = new ArrayList()<Produto>();
+    ArrayList<Produto> ps = new ArrayList<Produto>();
 
     for (Object o : k) {
       if (o instanceof Produto) {
